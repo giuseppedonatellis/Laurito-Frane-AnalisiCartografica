@@ -20,3 +20,7 @@ I dati relativi ai fenomeni franosi sono stati ottenuti dal Geoportale Nazionale
 Verificare eventuali restrizioni prima della redistribuzione.
 
 La base cartografica (CTR) è stata scaricata dal Geoportale della Regione Campania, distribuita secondo la Italian Open Data License v2.0.
+
+## Accesso ai dati
+
+I file GIS e le carte tematiche relative all’analisi dei fenomeni franosi nel territorio comunale di Laurito (SA) sono disponibili al seguente link:

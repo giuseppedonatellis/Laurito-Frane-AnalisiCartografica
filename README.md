@@ -25,4 +25,5 @@ La base cartografica (CTR) è stata scaricata dal Geoportale della Regione Campa
 
 https://comfy-banoffee-40c2c3.netlify.app/
 
-## Download mappa
+## Accesso ai dati
+https://drive.google.com/drive/folders/1w9gsVwVgrx1lzWPR0EMGUzJvc4rbGnEV?usp=drive_link

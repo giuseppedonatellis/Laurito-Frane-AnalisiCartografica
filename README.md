@@ -13,6 +13,11 @@ Questo progetto documenta la realizzazione di una carta tematica dei fenomeni fr
 
 ---
 
+## Autore
+Giuseppe Donatellis
+
+---
+
 ## Software utilizzato
 - QGIS versione 3.30.4
 
